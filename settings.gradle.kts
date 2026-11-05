@@ -1,5 +1,6 @@
 rootProject.name = "java-professional-november"
 include("hw-01-gradle")
+include("hw-04-containers-and-algorithms")
 
 
 pluginManagement {
