@@ -2,6 +2,8 @@ rootProject.name = "java-professional-november"
 include("hw-01-gradle")
 include("hw-04-containers-and-algorithms")
 include("hw-06-annotations")
+include("hw-08-gc:homework")
+
 
 
 pluginManagement {
