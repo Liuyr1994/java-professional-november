@@ -4,6 +4,8 @@ include("hw-04-containers-and-algorithms")
 include("hw-06-annotations")
 include("hw-08-gc:homework")
 include("hw-12-oop-design-concepts")
+include("hw-16-serialization:homework")
+include("hw-16-serialization:demo")
 
 
 
